@@ -1,0 +1,19 @@
+{
+  "name": "motoclub",
+  "version": "1.0.0",
+  "description": "Tem motos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jottha/MotoClub.git"
+  },
+  "author": "LTI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jottha/MotoClub/issues"
+  },
+  "homepage": "https://github.com/Jottha/MotoClub#readme"
+}
