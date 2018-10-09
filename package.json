@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jottha/MotoClub/issues"
   },
-  "homepage": "https://github.com/Jottha/MotoClub#readme"
+  "homepage": "https://github.com/Jottha/MotoClub#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
