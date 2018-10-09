@@ -1,0 +1,22 @@
+{
+    "compilerOprions": {
+        "target": "es5",
+        "module": "common.js",
+        "outDir": "dist",
+        "typeRoots": [
+            "../node_modules/@types"
+        ],
+        "types": [
+            "node"
+        ]
+    },
+    "include": [
+        "server/**/*.ts",
+        "server/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "compileOnSave": true,
+    "buildOnSave": true
+}
